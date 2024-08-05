@@ -8,3 +8,4 @@ This Repo is my Practice to learn Data Engineering in Microsoft Azure Platform.
   + List of Blobs
 
 ## Data Integration with Microsoft Azure Data Factory
+
