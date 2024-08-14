@@ -5,7 +5,7 @@ This Repo is my Practice to learn Data Engineering in Microsoft Azure Platform.
   + Create New App in Azure Storage 
   + Create a New Storage Account
   + List of Containers
-  + List of Blobs
+  + List of Blobs 
 
 ## Data Integration with Microsoft Azure Data Factory.  
 
